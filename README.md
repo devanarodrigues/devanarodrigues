@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:9796f0,100:fbc7d4&height=210&section=header&text=Ana%20Rodrigues&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Developer%20Front%20End&descAlignY=50">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:9796f0,100:fbc7d4&height=210&section=header&text=Ana%20Rodrigues&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Front-End%20Developer%20&descAlignY=50">
 
 <div align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=devanarodrigues&show_icons=true&count_private=true&hide_border=true&title_color=D0C5EF&icon_color=9796f0&text_color=fbc7d4&bg_color=0d1117"/>
