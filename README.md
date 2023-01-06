@@ -21,9 +21,9 @@
 <div> 
   <a href="https://www.instagram.com/annaaa_szzz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/devanarodrigues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
  
-  ![Snake animation](https://github.com/devanarodrigues/devanarodrigues/blob/output/github-contribution-grid-snake.svg)
- 
+<!--   ![Snake animation](https://github.com/devanarodrigues/devanarodrigues/blob/output/github-contribution-grid-snake.svg) -->
+ ![github-user-contribution](https://user-images.githubusercontent.com/105511455/211057748-757b88fc-c47d-45ec-aa70-be1a5938aa20.svg)
+
 </div>
 
